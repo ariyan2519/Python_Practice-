@@ -1,0 +1,11 @@
+#Creating a simple calculator
+num_1 = input("What is your first digit?")
+num_3 = int(num_1)
+num_2 = input("What is your second digit?")
+num_4 = int(num_2)
+print("Doing +: " , num_3 +num_4)
+print("Doing x ", num_4 * num_3)
+print("Doing / ", num_3/num_4)
+print("Doing // ", num_3 // num_4)
+print ("Doing - ", num_3 - num_4)
+print ("Doing % ", num_3 % num_4)
