@@ -19,7 +19,7 @@ print("I am from Bangladesh",8,9.0, sep = " @ ")
 print ("This is soo good !", 4,5.65, end = "\nWell")
 """Zara is living is USA """
 
-#Module_5
+#Module_6
 # Complex numbers,integer numbers, floating points, boolean etc
 # Variables
 #List
@@ -46,7 +46,7 @@ print(Mixed[-1])
 print("list of mixed values\n")
 print(Mixed)
 
-#Module_6
+#Module_7
 #Operators
 
 print ( 5+5+9)
@@ -54,12 +54,12 @@ print(3**8)
 print(2/5)
 print(3//8)
 
-#Module_7
+#Module_8
 #Make a simple calculator
 #Done already
 
 
-#Module_8
+#Module_9
 #Typecasting Python
 a = 6
 b = 0.98
@@ -67,7 +67,7 @@ c = "Harry"
 print(str(b) + c)
 print(type(b))
 
-#Module_9
+#Module_10
 #Taking user input 
 a = input("First number : ")
 b = input ("Second number : ")
